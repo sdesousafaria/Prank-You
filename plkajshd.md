@@ -22,7 +22,6 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [Adjust](https://www.adjust.com/terms/privacy-policy)
-*   [Appsflyer](https://www.appsflyer.com/legal/services-privacy-policy/)
 *   [Chrome](https://www.google.com/chrome/privacy/)
 
 **Information We May Collect and How We Collect It**
@@ -74,7 +73,6 @@ When you access or use our Services, we collect information from and about you a
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [One Signal](https://onesignal.com/privacy_policy)
 *   [Adjust](https://www.adjust.com/terms/privacy-policy)
-*   [Appsflyer](https://www.appsflyer.com/legal/services-privacy-policy/)
 *   [Chrome](https://www.google.com/chrome/privacy/)
 
 **How We Use Information**
